@@ -2,7 +2,6 @@
 	<head>
 		<title>CONTACT MANAGEMENT</title>
 		<link rel="stylesheet" href="https://bootswatch.com/5/quartz/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo base_url(); ?>assets/css/style.css">
     <script src="http://cdn.ckeditor.com/4.5.11/standard/ckeditor.js"></script>
 	</head>
 	<body>
